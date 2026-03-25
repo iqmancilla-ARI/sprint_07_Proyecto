@@ -1,2 +1,2 @@
-# sprint-_07-_Proyecto
+# sprint_07_Proyecto
 Proyecto de creación de app en la web
